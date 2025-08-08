@@ -142,6 +142,65 @@ As an addendum: Dragon Disciples will absolutely LOVE this change.
 *Grants bonus spell slots based on stats for the Mage, Sorcerer, Ranger, Paladin, Bard and Shaman.*
 
 This component makes the mental ability scores of Intelligence, Wisdom and Charisma more persistently valuable to spellcasters, giving them extra spell slots per ability point.
+
+Mages (INT) and Bards (CHA):
+|    | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| -- | - | - | - | - | - | - | - | - | - |
+| 16 | 1 |   |   |   |   |   |   |   |   |
+| 17 | 1 | 1 |   |   |   |   |   |   |   |
+| 18 | 1 | 1 | 1 |   |   |   |   |   |   |
+| 19 | 1 | 1 | 1 | 1 |   |   |   |   |   |
+| 20 | 2 | 2 | 2 | 1 |   |   |   |   |   |
+| 21 | 2 | 2 | 2 | 2 | 1 |   |   |   |   |
+| 22 | 2 | 2 | 2 | 2 | 2 | 1 |   |   |   |
+| 23 | 2 | 2 | 2 | 2 | 2 | 2 | 1 |   |   |
+| 24 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 1 |   |
+| 25 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 1 |
+
+Sorcerers (CHA):
+|    | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| -- | - | - | - | - | - | - | - | - | - |
+| 16 | 2 |   |   |   |   |   |   |   |   |
+| 17 | 2 | 2 |   |   |   |   |   |   |   |
+| 18 | 2 | 2 | 2 |   |   |   |   |   |   |
+| 19 | 2 | 2 | 2 | 2 |   |   |   |   |   |
+| 20 | 3 | 3 | 3 | 3 |   |   |   |   |   |
+| 21 | 4 | 4 | 3 | 3 | 2 |   |   |   |   |
+| 22 | 4 | 4 | 4 | 3 | 3 | 2 |   |   |   |
+| 23 | 4 | 4 | 4 | 4 | 3 | 3 | 2 |   |   |
+| 24 | 4 | 4 | 4 | 4 | 4 | 3 | 3 | 2 |   |
+| 25 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 3 | 2 |
+
+Rangers and Paladins (WIS), based on [PsT/PnP from Tweaks Anthology](https://gibberlings3.github.io/Documentation/readmes/readme-cdtweaks_tables.html#wisdom):
+|    | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+| -- | - | - | - | - | - | - | - |
+| 13 | 1 |   |   |   |   |   |   |
+| 14 | 2 |   |   |   |   |   |   |
+| 15 | 2 | 1 |   |   |   |   |   |
+| 16 | 2 | 2 |   |   |   |   |   |
+| 17 | 2 | 2 | 1 |   |   |   |   |
+| 18 | 2 | 2 | 2 | 1 |   |   |   |
+| 19 | 3 | 2 | 2 | 1 |   |   |   |
+| 20 | 3 | 3 | 2 | 2 |   |   |   |
+| 21 | 3 | 3 | 3 | 2 | 1 |   |   |
+| 22 | 3 | 3 | 3 | 3 | 2 |   |   |
+| 23 | 4 | 3 | 3 | 3 | 2 | 1 |   |
+| 24 | 4 | 3 | 3 | 3 | 3 | 2 |   |
+| 25 | 4 | 3 | 3 | 3 | 3 | 3 | 1 |
+
+Shamans (CHA), unchanged from the original version of this mod:
+|    | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+| -- | - | - | - | - | - | - | - |
+| 17 | 1 | 1 |   |   |   |   |   |
+| 18 | 2 | 2 | 1 | 1 |   |   |   |
+| 19 | 2 | 2 | 2 | 2 | 1 | 1 |   |
+| 20 | 3 | 3 | 2 | 2 | 1 | 1 | 1 |
+| 21 | 3 | 3 | 3 | 3 | 2 | 2 | 1 |
+| 22 | 4 | 4 | 3 | 3 | 2 | 2 | 2 |
+| 23 | 5 | 4 | 4 | 3 | 3 | 3 | 2 |
+| 24 | 5 | 5 | 5 | 4 | 4 | 4 | 3 |
+| 25 | 5 | 5 | 5 | 5 | 5 | 4 | 4 |
+
 ## Warrior HLAs
 *Modifies the HLAs Resist Magic, Critical Strike, War Cry*
 
